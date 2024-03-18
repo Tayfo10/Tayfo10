@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tayfun</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">A Software developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayfo10&label=Profile%20views&color=0e75b6&style=flat" alt="tayfo10" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Swift**
 
 
 
